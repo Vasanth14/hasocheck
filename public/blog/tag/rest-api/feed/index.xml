@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rest api Archives - Hasotech</title>
+	<atom:link href="/blog/tag/rest-api/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/tag/rest-api/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 May 2017 17:34:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>rest api Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/tag/rest-api/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Secure Laravel API using OAuth? [ Laravel Passport ]</title>
+		<link>/blog/secure-laravel-api-using-oauth-laravel-passport/</link>
+					<comments>/blog/secure-laravel-api-using-oauth-laravel-passport/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 17:34:44 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[rest api]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=106</guid>
+
+					<description><![CDATA[<p>Do you want to secure your Laravel API with OAuth? Are you failed to install OAuth 2.0 or Laravel Passport on Laravel 5.4? Here is the solution. In this tutorial has step by step procedure to How to secure Laravel API with OAuth 2.0? Why OAuth 2.0 not works in Laravel 5.4? In previous, all of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/secure-laravel-api-using-oauth-laravel-passport/">How to Secure Laravel API using OAuth? [ Laravel Passport ]</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Do you want to <strong>secure your <a href="https://www.hasotech.com/category/laravel/">Laravel</a> API with OAuth?</strong> Are you failed to install <strong>OAuth 2.0 or Laravel Passport</strong> on Laravel 5.4? Here is the solution. In this tutorial has step by step procedure to How to secure <strong>Laravel API with OAuth 2.0</strong>?</p>
+<h2>Why OAuth 2.0 not works in Laravel 5.4?</h2>
+<p>In previous, all of them using GitHub published OAuth 2.0 for Laravel but this feature stopped from Laravel 5.3. Because introduced his own rest API secure method. Oh yes! That is Laravel passport. Now, you can use Laravel predefined authentication function. This was more secure than all. Laravel Passport provides all OAuth features like connecting client to the OAuth server and token generation.</p>
+<p>&nbsp;</p>
+<h2>Why use Laravel API with the passport?</h2>
+<p>If you use Laravel API without the passport that API was not secure. That API looks weaker so, it can easier to hack. Laravel Passport generates Bearer access token. Access token generates based client id, client access token, username and password. Once Access token is generated you can use it for calling API. Normally access token has 365 days expiry date. You can reduce it using Laravel.</p>
+<p>&nbsp;</p>
+<h2>How to install Laravel Passport on Laravel Project?</h2>
+<p>Step 1: Open <strong>Command Prompt</strong> or <strong>Terminal</strong> and locate to your Laravel project file path.</p>
+<p>&nbsp;</p>
+<p>Step 2: Run the following command.</p>
+<blockquote><p><strong>composer require laravel/passport</strong></p></blockquote>
+<p>Note: In this screenshot, I created Laravel project with name &#8220;<strong>passport</strong>&#8220;. So, I moved to that folder and run this command.</p>
+<p>Step 3: After install, open<strong> config/app.php</strong> file. Now, add this line inside the <strong>provider</strong> section.<br />
+&nbsp;</p>
+<blockquote><p><strong>Laravel\Passport\PassportServiceProvider::class,</strong></p></blockquote>
+<p>Step 4: Now, open the <strong>.env</strong> file and config the database.</p>
+<p>I am using local DB. So, I config like this screenshot.</p>
+<p>Step 5: Time to migrate the database. Because Laravel passport creates some additional table for token generating. For migration use this following command.</p>
+<p>&nbsp;</p>
+<blockquote><p><strong>Php artisan migrate</strong></p></blockquote>
+<p>&nbsp;</p>
+<p>Step 6: If you got any errors like default column size. Just replace this following codes in <strong>app/Providers/AppServiceProvider.php</strong></p>
+<blockquote><p>&lt;?php</p>
+<p>namespace App\Providers;</p>
+<p>use Illuminate\Support\ServiceProvider;<br />
+use Illuminate\Support\Facades\Schema;</p>
+<p>class AppServiceProvider extends ServiceProvider<br />
+{<br />
+/**<br />
+* Bootstrap any application services.<br />
+*<br />
+* @return void<br />
+*/<br />
+public function boot()<br />
+{<br />
+Schema::defaultStringLength(191);<br />
+}</p>
+<p>/**<br />
+* Register any application services.<br />
+*<br />
+* @return void<br />
+*/<br />
+public function register()<br />
+{<br />
+//<br />
+}<br />
+}</p></blockquote>
+<p>&nbsp;</p>
+<p>Step 7: After successful migrate, run this following commands to fully install Laravel passport.</p>
+<p>&nbsp;</p>
+<blockquote><p><strong>php artisan passport:install</strong></p></blockquote>
+<p>Step 8: After install, open User model (<strong>App/User.php</strong>).</p>
+<p>&nbsp;</p>
+<p>Step 9: Replace <strong>User model</strong> code with this following code</p>
+<p>&nbsp;</p>
+<blockquote><p>&lt;?php</p>
+<p>namespace App;</p>
+<p>use Laravel\Passport\HasApiTokens;</p>
+<p>use Illuminate\Notifications\Notifiable;</p>
+<p>use Illuminate\Foundation\Auth\User as Authenticatable;</p>
+<p>class User extends Authenticatable</p>
+<p>{</p>
+<p>use HasApiTokens, Notifiable;</p>
+<p>}</p></blockquote>
+<p>&nbsp;</p>
+<p>Step 10: Now, replace <strong>App/Providers/AuthServiceProvider.php</strong> code with this following</p>
+<p>&nbsp;</p>
+<blockquote><p>&lt;?php</p>
+<p>namespace App\Providers;</p>
+<p>use Laravel\Passport\Passport;</p>
+<p>use Illuminate\Support\Facades\Gate; use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;</p>
+<p>class AuthServiceProvider extends ServiceProvider</p>
+<p>{</p>
+<p>/** * The policy mappings for the application. * * @var array */</p>
+<p>protected $policies = [ &#8216;App\Model&#8217; =&gt; &#8216;App\Policies\ModelPolicy&#8217;, ];</p>
+<p>/** * Register any authentication / authorization services. * * @return void */</p>
+<p>public function boot()</p>
+<p>{</p>
+<p>$this-&gt;registerPolicies();</p>
+<p>Passport::routes();</p>
+<p>}</p>
+<p>}</p></blockquote>
+<p>&nbsp;</p>
+<p>Step 11: Open <strong>config/auth.</strong>php. In this file find <strong>‘api’ =&gt; [</strong> functions. Then change <strong>driver</strong> API to a passport. For more details check the screenshot.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Step 12: Now, generating access key using this following command.</p>
+<p>&nbsp;</p>
+<blockquote><p><strong>php artisan passport:keys</strong></p></blockquote>
+<h2></h2>
+<h2>How to Generate Authorization token in Laravel Passport?</h2>
+<p>For API authentication, we need to use auth token to access the API. In Laravel, we can easily create auth token. Full details published below.</p>
+<p>Note: First complete the above steps.</p>
+<p>Step 1: Before generating an access token, First you need <strong>password client</strong>. To generate password client using this following command.</p>
+<blockquote><p><strong>php artisan passport:client &#8211;password</strong></p></blockquote>
+<p>&nbsp;</p>
+<p>Step 2: Now, time add a new user in the &#8220;<strong>users&#8221;</strong> table. Go to your <strong>users</strong> table in <strong>phpmyadmin. </strong>Insert new values in the <strong>users</strong> table. For password field generate hash password using this below syntax.</p>
+<blockquote><p>&lt;?php</p>
+<p>$password=&#8221;yourpassword&#8221;;</p>
+<p>echo $new_password=password_hash($password,PASSWORD_DEFAULT);</p>
+<p>?&gt;</p></blockquote>
+<p>Step 3: After <strong>users table</strong> looks like below screenshot</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>I created users with name vignesh.</p>
+<p>Step 4: Now time to generate <strong>auth token</strong>. Open postman and enter url</p>
+<blockquote><p><strong>http://localhost:8000/oauth/token</strong></p></blockquote>
+<p>Step 5: Pass this following values on the form data.</p>
+<blockquote><p>client_id =&gt; &#8220;your created password client id&#8221;</p>
+<p>client_secret =&gt; &#8220;generate client secret for above id&#8221;</p>
+<p>grant_type =&gt; password</p>
+<p>username =&gt; &#8220;Table inserted username&#8221;</p>
+<p>password =&gt; &#8220;Table added password&#8221;</p></blockquote>
+<p>&nbsp;</p>
+<p>Click Send button. Now your auth token has been generated using this on your <strong>Rest API with a header</strong>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Final Words</h2>
+<p>Finally, we successfully secure our <strong>Laravel Rest API using OAuth via Laravel Passport</strong>. If you having any doubts command below <strong>Hasoian</strong> ready to solve your queries.</p>
+<p>The post <a rel="nofollow" href="/blog/secure-laravel-api-using-oauth-laravel-passport/">How to Secure Laravel API using OAuth? [ Laravel Passport ]</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/secure-laravel-api-using-oauth-laravel-passport/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 16:58:08 by W3 Total Cache
+-->

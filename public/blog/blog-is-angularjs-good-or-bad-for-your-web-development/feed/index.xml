@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Is AngularJS Good or Bad For Your Web Development?	</title>
+	<atom:link href="/blog/blog-is-angularjs-good-or-bad-for-your-web-development/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/blog-is-angularjs-good-or-bad-for-your-web-development/</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Aug 2021 07:45:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 10:23:53 by W3 Total Cache
+-->

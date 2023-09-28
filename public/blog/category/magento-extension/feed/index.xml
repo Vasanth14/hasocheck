@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Magento extension Archives - Hasotech</title>
+	<atom:link href="/blog/category/magento-extension/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/category/magento-extension/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Jul 2021 07:15:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>Magento extension Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/category/magento-extension/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Free Buy now Button in Magento 2</title>
+		<link>/blog/buy-now-button-magento2/</link>
+					<comments>/blog/buy-now-button-magento2/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2017 05:51:22 +0000</pubDate>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Magento 2]]></category>
+		<category><![CDATA[Magento extension]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=13</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/blog/buy-now-button-magento2/">Free Buy now Button in Magento 2</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><img class="aligncenter wp-image-14 size-full" src="https://www.hasotech.com/wp-content/uploads/2017/10/Magento-logo.png" alt="" width="570" height="200" /></p>
+<h4>About Magento</h4>
+<p>Magento is one of the fast growing e-commerce sites which is having vast features and high-end security.</p>
+<h4>Why Magento?</h4>
+<p>Yes, your thought is right why you have pick Magento framework, while there are many eCommerce developing platforms in the market because Magento platform is scalable, upgradable, extendable, flexible and modular which is exactly why this platform is favored. It also provides the analytical reports about the users and Magento provides Support tools to makes sure that any issues you encounter to get solved quickly moreover it also provide the higher end security.It also provides the API which is very much helpful in developing the mobile application for your eCommerce site.</p>
+<h2>Buy now in Magento2</h2>
+<p>&nbsp;</p>
+<p>Of course Magento provides all the functionalities easy but even though there are little complication in some modules, For example, Magento does not provide Buy now option, to overcome that it Magento provides Add to cart, Which means even the customer wants to buy a single product they have to add their product to the cart then they have to do the Checkout function. It&#8217;s complicated, right? ..there are many plugins and extensions available in the Magento Marketplace but still now for Magento2, it&#8217;s a bit complicate to find the desired extension to get Buy now button.</p>
+<p>While I came through several sites and extensions I finally had a chance to find the Buy now plugins which are suitable for Magento2. All you have to do is just follow the below link,</p>
+<p><a href="https://github.com/prince108/Magento2-Buynow" target="_blank" rel="noopener noreferrer">https://github.com/prince108/Magento2-Buynow</a></p>
+<p>Follow the below steps using FileZilla or PuTTY</p>
+<ol>
+<li>Download and extract the Zip file.</li>
+<li>Open your root directory.</li>
+<li>Insert the file into &#8211; magento/app/code</li>
+<li>Run the command &#8211; php bin/magento setup:upgrade</li>
+<li>Deploy by using the command &#8211; php bin/magento setup:static-content:deploy</li>
+</ol>
+<p>That&#8217;s all you were done !! Now you get Buy now button in your Magento site.(It will add Buy now button int your site, if there is any issue get occurred in this Buy now button, Open your Admin panel &#8211; &gt; Store &#8211; &gt; Advanced -&gt; Advanced, you just have to disable and press Save Config and then enable and press Save Config, then refresh your Cache).</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/blog/buy-now-button-magento2/">Free Buy now Button in Magento 2</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/buy-now-button-magento2/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 10:38:54 by W3 Total Cache
+-->

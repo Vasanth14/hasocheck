@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Laravel Archives - Hasotech</title>
+	<atom:link href="/blog/category/laravel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/category/laravel/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Jul 2021 07:16:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>Laravel Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/category/laravel/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Export DB table records in excel laravel</title>
+		<link>/blog/export-db-table-records-in-excel-laravel/</link>
+					<comments>/blog/export-db-table-records-in-excel-laravel/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Jul 2021 07:16:24 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=213</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/blog/export-db-table-records-in-excel-laravel/">Export DB table records in excel laravel</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Hi, this is <strong>Ranjit</strong>, In this article, we can see about how to export a table from the database into excel using <strong>laravel</strong>.</p>
+<p><strong>Project creation in laravel</strong></p>
+<ul>
+<li>First, you must create Laravel project on your machine. Laravel can install through composer using this command.
+<p class=" language-php">   <strong>composer create-project &#8211;prefer-dist laravel/laravel &lt;project_name&gt;</strong></p>
+<p>It will take up to 5-10 mins depends on your machine configuration and it will install the latest version of Laravel.</li>
+<li>Can run your application by this command
+<p class=" language-php">  <strong> php artisan serve</strong></p>
+</li>
+</ul>
+<p><strong>Installing Excel Export plugin in laravel</strong></p>
+<ul>
+<li>We can install maatwebsite laravel package for easy export excel<br />
+<h3><strong><code>  composer require maatwebsite/excel</code></strong></h3>
+</li>
+<li>After installation over, add the below code into your <strong>config/app.php </strong>file in provider&#8217;s array
+<pre><strong><code>     'providers' =&gt; [
+      ...
+      Maatwebsite\Excel\ExcelServiceProvider::class,
+     ],
+                   </code></strong></pre>
+</li>
+<li>
+<pre><strong><code></code></strong></pre>
+</li>
+</ul>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/blog/export-db-table-records-in-excel-laravel/">Export DB table records in excel laravel</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/export-db-table-records-in-excel-laravel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Secure Laravel API using OAuth? [ Laravel Passport ]</title>
+		<link>/blog/secure-laravel-api-using-oauth-laravel-passport/</link>
+					<comments>/blog/secure-laravel-api-using-oauth-laravel-passport/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 17:34:44 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[rest api]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=106</guid>
+
+					<description><![CDATA[<p>Do you want to secure your Laravel API with OAuth? Are you failed to install OAuth 2.0 or Laravel Passport on Laravel 5.4? Here is the solution. In this tutorial has step by step procedure to How to secure Laravel API with OAuth 2.0? Why OAuth 2.0 not works in Laravel 5.4? In previous, all of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/secure-laravel-api-using-oauth-laravel-passport/">How to Secure Laravel API using OAuth? [ Laravel Passport ]</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Do you want to <strong>secure your <a href="https://www.hasotech.com/category/laravel/">Laravel</a> API with OAuth?</strong> Are you failed to install <strong>OAuth 2.0 or Laravel Passport</strong> on Laravel 5.4? Here is the solution. In this tutorial has step by step procedure to How to secure <strong>Laravel API with OAuth 2.0</strong>?</p>
+<h2>Why OAuth 2.0 not works in Laravel 5.4?</h2>
+<p>In previous, all of them using GitHub published OAuth 2.0 for Laravel but this feature stopped from Laravel 5.3. Because introduced his own rest API secure method. Oh yes! That is Laravel passport. Now, you can use Laravel predefined authentication function. This was more secure than all. Laravel Passport provides all OAuth features like connecting client to the OAuth server and token generation.</p>
+<p>&nbsp;</p>
+<h2>Why use Laravel API with the passport?</h2>
+<p>If you use Laravel API without the passport that API was not secure. That API looks weaker so, it can easier to hack. Laravel Passport generates Bearer access token. Access token generates based client id, client access token, username and password. Once Access token is generated you can use it for calling API. Normally access token has 365 days expiry date. You can reduce it using Laravel.</p>
+<p>&nbsp;</p>
+<h2>How to install Laravel Passport on Laravel Project?</h2>
+<p>Step 1: Open <strong>Command Prompt</strong> or <strong>Terminal</strong> and locate to your Laravel project file path.</p>
+<p>&nbsp;</p>
+<p>Step 2: Run the following command.</p>
+<blockquote><p><strong>composer require laravel/passport</strong></p></blockquote>
+<p>Note: In this screenshot, I created Laravel project with name &#8220;<strong>passport</strong>&#8220;. So, I moved to that folder and run this command.</p>
+<p>Step 3: After install, open<strong> config/app.php</strong> file. Now, add this line inside the <strong>provider</strong> section.<br />
+&nbsp;</p>
+<blockquote><p><strong>Laravel\Passport\PassportServiceProvider::class,</strong></p></blockquote>
+<p>Step 4: Now, open the <strong>.env</strong> file and config the database.</p>
+<p>I am using local DB. So, I config like this screenshot.</p>
+<p>Step 5: Time to migrate the database. Because Laravel passport creates some additional table for token generating. For migration use this following command.</p>
+<p>&nbsp;</p>
+<blockquote><p><strong>Php artisan migrate</strong></p></blockquote>
+<p>&nbsp;</p>
+<p>Step 6: If you got any errors like default column size. Just replace this following codes in <strong>app/Providers/AppServiceProvider.php</strong></p>
+<blockquote><p>&lt;?php</p>
+<p>namespace App\Providers;</p>
+<p>use Illuminate\Support\ServiceProvider;<br />
+use Illuminate\Support\Facades\Schema;</p>
+<p>class AppServiceProvider extends ServiceProvider<br />
+{<br />
+/**<br />
+* Bootstrap any application services.<br />
+*<br />
+* @return void<br />
+*/<br />
+public function boot()<br />
+{<br />
+Schema::defaultStringLength(191);<br />
+}</p>
+<p>/**<br />
+* Register any application services.<br />
+*<br />
+* @return void<br />
+*/<br />
+public function register()<br />
+{<br />
+//<br />
+}<br />
+}</p></blockquote>
+<p>&nbsp;</p>
+<p>Step 7: After successful migrate, run this following commands to fully install Laravel passport.</p>
+<p>&nbsp;</p>
+<blockquote><p><strong>php artisan passport:install</strong></p></blockquote>
+<p>Step 8: After install, open User model (<strong>App/User.php</strong>).</p>
+<p>&nbsp;</p>
+<p>Step 9: Replace <strong>User model</strong> code with this following code</p>
+<p>&nbsp;</p>
+<blockquote><p>&lt;?php</p>
+<p>namespace App;</p>
+<p>use Laravel\Passport\HasApiTokens;</p>
+<p>use Illuminate\Notifications\Notifiable;</p>
+<p>use Illuminate\Foundation\Auth\User as Authenticatable;</p>
+<p>class User extends Authenticatable</p>
+<p>{</p>
+<p>use HasApiTokens, Notifiable;</p>
+<p>}</p></blockquote>
+<p>&nbsp;</p>
+<p>Step 10: Now, replace <strong>App/Providers/AuthServiceProvider.php</strong> code with this following</p>
+<p>&nbsp;</p>
+<blockquote><p>&lt;?php</p>
+<p>namespace App\Providers;</p>
+<p>use Laravel\Passport\Passport;</p>
+<p>use Illuminate\Support\Facades\Gate; use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;</p>
+<p>class AuthServiceProvider extends ServiceProvider</p>
+<p>{</p>
+<p>/** * The policy mappings for the application. * * @var array */</p>
+<p>protected $policies = [ &#8216;App\Model&#8217; =&gt; &#8216;App\Policies\ModelPolicy&#8217;, ];</p>
+<p>/** * Register any authentication / authorization services. * * @return void */</p>
+<p>public function boot()</p>
+<p>{</p>
+<p>$this-&gt;registerPolicies();</p>
+<p>Passport::routes();</p>
+<p>}</p>
+<p>}</p></blockquote>
+<p>&nbsp;</p>
+<p>Step 11: Open <strong>config/auth.</strong>php. In this file find <strong>‘api’ =&gt; [</strong> functions. Then change <strong>driver</strong> API to a passport. For more details check the screenshot.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Step 12: Now, generating access key using this following command.</p>
+<p>&nbsp;</p>
+<blockquote><p><strong>php artisan passport:keys</strong></p></blockquote>
+<h2></h2>
+<h2>How to Generate Authorization token in Laravel Passport?</h2>
+<p>For API authentication, we need to use auth token to access the API. In Laravel, we can easily create auth token. Full details published below.</p>
+<p>Note: First complete the above steps.</p>
+<p>Step 1: Before generating an access token, First you need <strong>password client</strong>. To generate password client using this following command.</p>
+<blockquote><p><strong>php artisan passport:client &#8211;password</strong></p></blockquote>
+<p>&nbsp;</p>
+<p>Step 2: Now, time add a new user in the &#8220;<strong>users&#8221;</strong> table. Go to your <strong>users</strong> table in <strong>phpmyadmin. </strong>Insert new values in the <strong>users</strong> table. For password field generate hash password using this below syntax.</p>
+<blockquote><p>&lt;?php</p>
+<p>$password=&#8221;yourpassword&#8221;;</p>
+<p>echo $new_password=password_hash($password,PASSWORD_DEFAULT);</p>
+<p>?&gt;</p></blockquote>
+<p>Step 3: After <strong>users table</strong> looks like below screenshot</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>I created users with name vignesh.</p>
+<p>Step 4: Now time to generate <strong>auth token</strong>. Open postman and enter url</p>
+<blockquote><p><strong>http://localhost:8000/oauth/token</strong></p></blockquote>
+<p>Step 5: Pass this following values on the form data.</p>
+<blockquote><p>client_id =&gt; &#8220;your created password client id&#8221;</p>
+<p>client_secret =&gt; &#8220;generate client secret for above id&#8221;</p>
+<p>grant_type =&gt; password</p>
+<p>username =&gt; &#8220;Table inserted username&#8221;</p>
+<p>password =&gt; &#8220;Table added password&#8221;</p></blockquote>
+<p>&nbsp;</p>
+<p>Click Send button. Now your auth token has been generated using this on your <strong>Rest API with a header</strong>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Final Words</h2>
+<p>Finally, we successfully secure our <strong>Laravel Rest API using OAuth via Laravel Passport</strong>. If you having any doubts command below <strong>Hasoian</strong> ready to solve your queries.</p>
+<p>The post <a rel="nofollow" href="/blog/secure-laravel-api-using-oauth-laravel-passport/">How to Secure Laravel API using OAuth? [ Laravel Passport ]</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/secure-laravel-api-using-oauth-laravel-passport/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Laravel 5 &#8211; MongoDB Easy Setup</title>
+		<link>/blog/laravel-5-mongodb-easy-setup/</link>
+					<comments>/blog/laravel-5-mongodb-easy-setup/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 05:21:28 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=90</guid>
+
+					<description><![CDATA[<p>Laravel It&#8217;s an Open source PHP Web Framework. Development of web applications following Model-View-Controller (MVC) architecture. Official Website https://laravel.com/ MongoDB It&#8217;s Classified as NoSQL database program. It supports field, range queries, regular expression searches. Official Website https://www.mongodb.com/   Pros: It&#8217;s Free and can run on Linux. Faster Performance Cons: The size of database is little bit high..because of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/laravel-5-mongodb-easy-setup/">Laravel 5 &#8211; MongoDB Easy Setup</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Laravel</h2>
+<ul>
+<li>It&#8217;s an Open source <strong>PHP</strong> Web Framework.</li>
+<li>Development of web applications following Model-View-Controller <strong>(MVC)</strong> architecture.</li>
+<li>Official Website <a href="https://laravel.com/">https://laravel.com/</a></li>
+</ul>
+<h2>MongoDB</h2>
+<ul>
+<li>It&#8217;s Classified as <strong>NoSQL</strong> database program.</li>
+<li>It supports field, range queries, regular expression searches.</li>
+<li>Official Website <a href="https://www.mongodb.com/">https://www.mongodb.com/</a></li>
+</ul>
+<h4>  Pros:</h4>
+<ul>
+<li>It&#8217;s Free and can run on Linux.</li>
+<li>Faster Performance</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>The size of database is little bit high..because of field name is repeatedly storing for each document.</li>
+<li>Flexibility is less..because there are no join queries.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Laravel-MongoDB Setup</h2>
+<ul>
+<li>First, you must create Laravel project on your machine. Laravel can install through composer using this command.
+<p class=" language-php">   <strong>composer create-project &#8211;prefer-dist laravel/laravel &lt;project_name&gt;</strong></p>
+<p>It will take up to 5-10 mins depends on your machine configuration and it will install the latest version of Laravel.</li>
+<li>Can run your application by this command
+<p class=" language-php">  <strong> php artisan serve</strong></p>
+</li>
+<li>Before proceeding to configure MongoDB with Laravel make sure you have <strong>MongoDB PHP driver</strong> installed.<br />
+If you didn&#8217;t install MongoDB PHP driver means please follow the link to install<br />
+<a href="http://php.net/manual/en/mongodb.installation.php">http://php.net/manual/en/mongodb.installation.php</a><br />
+<em><em><strong>Note: The old mongo PHP driver is not supported in versions &gt;= 3.0.</strong></em></em></li>
+<li>Next step we move on to Mongo DB configurations in Laravel.<br />
+MongoDB can install through composer using this command</p>
+<pre><strong> composer require jenssegers/mongodb</strong></pre>
+</li>
+<li>Then add the service provider in your application folder<br />
+Select your application folder&#8211;&gt;Config&#8211;&gt;app.php<br />
+In your app.php file, add the below line in the provider&#8217;s array</p>
+<pre><strong><span class="pl-s1"><span class="pl-c1"> Jenssegers\Mongodb\</span><span class="pl-c1">MongodbServiceProvider</span><span class="pl-k">::</span><span class="pl-c1">class</span>,</span></strong></pre>
+</li>
+<li style="text-align: left;">Next step is adding your MongoDB connection and making default your connection<br />
+In that same folder, there was a database.php file will be available<br />
+Select that file and add the below coding in connection&#8217;s array.<br />
+<strong>           &#8216;mongodb&#8217; =&gt; [</strong><br />
+<strong>           &#8216;driver&#8217; =&gt; &#8216;mongodb&#8217;,</strong><br />
+<strong>           &#8216;host&#8217; =&gt; env(&#8216;DB_HOST&#8217;, &#8216;localhost&#8217;),</strong><br />
+<strong>           &#8216;port&#8217; =&gt; env(&#8216;DB_PORT&#8217;, 27017),</strong><br />
+<strong>           &#8216;database&#8217; =&gt; env(&#8216;DB_DATABASE&#8217;,'&lt;db_name&gt;&#8217;),</strong><br />
+<strong>           &#8216;username&#8217; =&gt; env(&#8216;DB_USERNAME&#8217;),</strong><br />
+<strong>           &#8216;password&#8217; =&gt; env(&#8216;DB_PASSWORD&#8217;),</strong><br />
+<strong>           &#8216;options&#8217; =&gt; [</strong><br />
+<strong>           &#8216;database&#8217; =&gt; &#8216;&lt;db_name&gt;&#8217;</strong><br />
+<strong>            ]</strong><br />
+<strong>     ]  ,</strong><br />
+Then make your default connection as mongodb</p>
+<pre><strong><span class="pl-s1"><span class="pl-s"><span class="pl-pds">  '</span>default<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> env(<span class="pl-s"><span class="pl-pds">'</span>DB_CONNECTION<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>mongodb<span class="pl-pds">'</span></span>),
+
+
+</span></strong></pre>
+</li>
+<li style="text-align: left;">Last and final step..Configuration in Environment file..<strong>(.env file)<br />
+</strong>That file is available at your laravel application folder<br />
+You have to configure your mongodb setup in .env file..add the below line in your env file<br />
+<strong>        DB_CONNECTION=mongodb</strong><br />
+<strong>        DB_HOST=127.0.0.1</strong><br />
+<strong>        DB_PORT=27017</strong><br />
+<strong>        DB_DATABASE=&lt;db_name&gt;</strong><br />
+<strong>        DB_USERNAME=&lt;db_username&gt;</strong><br />
+<strong><strong>        DB_PASSWORD=&lt;db_password&gt;</strong></strong></li>
+</ul>
+<p>That all about MongoDB with laravel Setup&#8230;Now you can use Eloquent method or query builder method to implement CRUD Operations in laravel and mongodb&#8230;.For further reference..please visit this link <a href="https://github.com/jenssegers/laravel-mongodb">https://github.com/jenssegers/laravel-mongodb</a>..<br />
+Thank you all.</p>
+<p>The post <a rel="nofollow" href="/blog/laravel-5-mongodb-easy-setup/">Laravel 5 &#8211; MongoDB Easy Setup</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/laravel-5-mongodb-easy-setup/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 10:38:20 by W3 Total Cache
+-->

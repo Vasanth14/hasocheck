@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Customized Web Application Archives - Hasotech</title>
+	<atom:link href="/blog/portfolio-cat/customized-web-application/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/portfolio-cat/customized-web-application/</link>
+	<description></description>
+	<lastBuildDate>Tue, 09 Nov 2021 10:20:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>Customized Web Application Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/portfolio-cat/customized-web-application/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hackeron</title>
+		<link>/portfolio/hackeron/</link>
+					<comments>/portfolio/hackeron/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 09 Nov 2021 10:20:37 +0000</pubDate>
+				<guid isPermaLink="false">https://hasotech.com/?post_type=portfolio&#038;p=6984</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/portfolio/hackeron/">Hackeron</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="gel-space gel-da7af4ec5c1f3b086ac19ebbaba6ef7b"></div><div class="gel-heading gel-heading-style-02 text-center">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Hackeron	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Hackeron is a web application for online examinations for students. This application includes institute details, question-answer details, class details reports, etc. This application helps you to conduct online examinations without facing any difficulties.</span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="768" height="768" src="/wp-content/uploads/2021/11/Untitled-9-1024x1024.png" class="vc_single_image-img attachment-large" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/11/Untitled-9-1024x1024.png 1024w, /wp-content/uploads/2021/11/Untitled-9-300x300.png 300w, /wp-content/uploads/2021/11/Untitled-9-150x150.png 150w, /wp-content/uploads/2021/11/Untitled-9-768x768.png 768w, /wp-content/uploads/2021/11/Untitled-9-1536x1536.png 1536w, /wp-content/uploads/2021/11/Untitled-9-2048x2048.png 2048w" sizes="(max-width: 768px) 100vw, 768px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		About Hackeron Application	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Hackeron is a <a href="https://hasotech.com/blog/pros-and-cons-of-hybrid-mobile-app-development/">hybrid web application</a> deployed customized for online examination. This application allows the users to access the online examinations which include the institute details, question-answer details, class details reports, etc.</span></p>
+<p><span style="font-weight: 400;">Hackeron web application has two web portals one is the staff to make questions, make class reports, analyze the result, etc. The other is for students to attend the online examination.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Hackeron - Features	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Admin Portal	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Dashboard	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">The dashboard of the staff portal helps you to get a quick detail of institutions, members, and the number of exams. With this dashboard, you’ll get a quick view of the overall. This provides on-demand access to all of your most important metrics and an enhanced preview of the metrics.  </span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="/wp-content/uploads/2021/11/Untitled-5-300x300.png" class="vc_single_image-img attachment-medium" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/11/Untitled-5-300x300.png 300w, /wp-content/uploads/2021/11/Untitled-5-1024x1024.png 1024w, /wp-content/uploads/2021/11/Untitled-5-150x150.png 150w, /wp-content/uploads/2021/11/Untitled-5-768x768.png 768w, /wp-content/uploads/2021/11/Untitled-5-1536x1536.png 1536w, /wp-content/uploads/2021/11/Untitled-5-2048x2048.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="/wp-content/uploads/2021/10/Untitled-3-300x300.png" class="vc_single_image-img attachment-medium" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/10/Untitled-3-300x300.png 300w, /wp-content/uploads/2021/10/Untitled-3-1024x1024.png 1024w, /wp-content/uploads/2021/10/Untitled-3-150x150.png 150w, /wp-content/uploads/2021/10/Untitled-3-768x768.png 768w, /wp-content/uploads/2021/10/Untitled-3-1536x1536.png 1536w, /wp-content/uploads/2021/10/Untitled-3-2048x2048.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Exam Page	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">This allows the user to add the upcoming exam and the scheduled exams. The exam will be added with the name, date, and duration of the exam. The scheduled exam can be viewed by the user. This includes the exam type like MCQ and Drag &amp; Drop.</span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Question Page	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">The question page is where users can add the questions for the exams. It is a simple way to prepare the question. All you need is to select the exam and paste or type the question according to the exam types.</span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="/wp-content/uploads/2021/10/Untitled-4-300x300.png" class="vc_single_image-img attachment-medium" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/10/Untitled-4-300x300.png 300w, /wp-content/uploads/2021/10/Untitled-4-1024x1024.png 1024w, /wp-content/uploads/2021/10/Untitled-4-150x150.png 150w, /wp-content/uploads/2021/10/Untitled-4-768x768.png 768w, /wp-content/uploads/2021/10/Untitled-4-1536x1536.png 1536w, /wp-content/uploads/2021/10/Untitled-4-2048x2048.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="/wp-content/uploads/2021/10/Untitled-2-300x300.png" class="vc_single_image-img attachment-medium" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/10/Untitled-2-300x300.png 300w, /wp-content/uploads/2021/10/Untitled-2-1024x1024.png 1024w, /wp-content/uploads/2021/10/Untitled-2-150x150.png 150w, /wp-content/uploads/2021/10/Untitled-2-768x768.png 768w, /wp-content/uploads/2021/10/Untitled-2-1536x1536.png 1536w, /wp-content/uploads/2021/10/Untitled-2-2048x2048.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Faculty Page	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">This page is for the staff where they can add the staff and view the list of staff. The staff can be adding by with their name, username, password, email id, and the institute they work. Each staff has their username and password.</span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Result Page	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">The result can be downloaded from this page. The result will be downloaded according to the institute, department, section, and exam name. This way the result can be error-free. </span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="/wp-content/uploads/2021/11/Untitled-6-300x300.png" class="vc_single_image-img attachment-medium" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/11/Untitled-6-300x300.png 300w, /wp-content/uploads/2021/11/Untitled-6-1024x1024.png 1024w, /wp-content/uploads/2021/11/Untitled-6-150x150.png 150w, /wp-content/uploads/2021/11/Untitled-6-768x768.png 768w, /wp-content/uploads/2021/11/Untitled-6-1536x1536.png 1536w, /wp-content/uploads/2021/11/Untitled-6-2048x2048.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		For Student	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="/wp-content/uploads/2021/11/Untitled-8-300x300.png" class="vc_single_image-img attachment-medium" alt="Hackeron" loading="lazy" srcset="/wp-content/uploads/2021/11/Untitled-8-300x300.png 300w, /wp-content/uploads/2021/11/Untitled-8-1024x1024.png 1024w, /wp-content/uploads/2021/11/Untitled-8-150x150.png 150w, /wp-content/uploads/2021/11/Untitled-8-768x768.png 768w, /wp-content/uploads/2021/11/Untitled-8-1536x1536.png 1536w, /wp-content/uploads/2021/11/Untitled-8-2048x2048.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Student Portal	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">The student portal is for the students to attend the examination. The student needs to register before attending the examination. The student portal includes the dashboard, MCQ, and drag &amp; drop. </span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Technology We Used	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-02 text-center">
+		<h4 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Hybrid Application	</h4>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-list gel-list-style-03 align-center gel-63591f9366a66 gel-63591f9366a7c">
+    <ul class="content-list circle-type">
+                                                            <li class="item-list gel-list-item">
+                                                            Ionic 2                                     </li>
+                                                                        <li class="item-list gel-list-item">
+                                                            Angular JS4                                    </li>
+                        </ul>
+</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		Why Need Hackeron	</h2>
+	</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f93696c4">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>Avoid manual errors in results.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f936ac09">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>Easy monitoring.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f936bd75">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>Conduct online examinations without any difficulties.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f936cf73">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>Easy maintenance of exams and results.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f936e0a2">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>The simple way to maintain class reports.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f936f16c">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>Easy result calculation.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="gel-icon-box gel-icon-box-style-04 gel-icon-box-size-md shape-default gel-63591f937023d">
+        <div class="icon">
+                <i class="fas fa-arrow-alt-right"></i>            </div>
+<div class="content-box">
+                <div class="description">
+	        <h5>The download can be done at any time without any delay.</h5>
+        </div>
+        </div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="g5element__gallery-slider" >
+    <div data-items-container data-slick-options='{&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:3,&quot;centerMode&quot;:false,&quot;centerPadding&quot;:&quot;&quot;,&quot;arrows&quot;:false,&quot;dots&quot;:true,&quot;infinite&quot;:false,&quot;adaptiveHeight&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:5000,&quot;draggable&quot;:true,&quot;responsive&quot;:[{&quot;breakpoint&quot;:1200,&quot;settings&quot;:{&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:3}},{&quot;breakpoint&quot;:992,&quot;settings&quot;:{&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:3}},{&quot;breakpoint&quot;:768,&quot;settings&quot;:{&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:3}},{&quot;breakpoint&quot;:576,&quot;settings&quot;:{&quot;slidesToShow&quot;:2,&quot;slidesToScroll&quot;:2}}]}' class="g5element__gallery-inner slick-slider g5core__gutter-40">
+        <div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-2-1-11.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-2-1-11.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-3-1-11.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-3-1-11.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-4-1-7.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-4-1-7.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-5-1-7.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-5-1-7.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-6-1-7.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-6-1-7.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-8-1-2.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-8-1-2.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-11-1-2.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-11-1-2.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-12-1-1.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-12-1-1.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-13-1-1.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-13-1-1.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+<div class="g5core__gutter-item g5element__gallery-item">
+    <div class="g5element__gallery-item-inner " >
+            <div class="g5core__post-featured">
+                <div style="background-image: url(/wp-content/uploads/2021/09/Frame-14-1-1.png);" class="g5core__entry-thumbnail g5core__embed-responsive g5core__image-size-1x1"></div>
+                            <a data-g5core-mfp data-gallery-id="63591f937208a" href="/wp-content/uploads/2021/09/Frame-14-1-1.png"  class="g5core__zoom-image"><i class="fas fa-expand"></i></a>
+            </div>
+        </div>
+</div>
+    </div>
+</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="gel-space gel-9dd39cccac40be0b3261f7c9ad2a8015"></div><div class="gel-heading gel-heading-style-02 text-center">
+			<div class="gel-heading-subtitle gel-791c3c2a3c77da2392e0509aadb4d35b">REQUEST A CALL BACK</div>
+		<h2 class="gel-heading-title gel-921c84e63758886a670f4064fa783d2f">
+		We are always ahead<br />
+Professional Solutions for You	</h2>
+	</div><div class="gel-space gel-1f73befaeabc2324f036e441382d83b1"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2500" height="2500" src="/wp-content/uploads/2021/08/Contact-us.png" class="vc_single_image-img attachment-full" alt="Contact us" loading="lazy" srcset="/wp-content/uploads/2021/08/Contact-us.png 2500w, /wp-content/uploads/2021/08/Contact-us-300x300.png 300w, /wp-content/uploads/2021/08/Contact-us-1024x1024.png 1024w, /wp-content/uploads/2021/08/Contact-us-150x150.png 150w, /wp-content/uploads/2021/08/Contact-us-768x768.png 768w, /wp-content/uploads/2021/08/Contact-us-1536x1536.png 1536w, /wp-content/uploads/2021/08/Contact-us-2048x2048.png 2048w" sizes="(max-width: 2500px) 100vw, 2500px" /></div>
+		</figure>
+	</div>
+<div class="gel-space gel-63e152990824c3fdacb6ee24125a080c"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-1 vc_col-lg-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="gel-heading gel-heading-style-01 text-left">
+		<h2 class="gel-heading-title gel-14d1b8879444eab495b28670641f968e">
+		I would like to discuss:	</h2>
+	</div><div class="gel-space gel-f8a335812cc288ced6b0ed7fe2075e95"></div>[contact-form-7]<div class="gel-space gel-f9db83f6d1c3f71853ad844b3886601a"></div></div></div></div>
+<p>The post <a rel="nofollow" href="/portfolio/hackeron/">Hackeron</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/hackeron/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 11:52:51 by W3 Total Cache
+-->

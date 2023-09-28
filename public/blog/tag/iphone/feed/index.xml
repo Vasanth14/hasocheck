@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iphone Archives - Hasotech</title>
+	<atom:link href="/blog/tag/iphone/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/tag/iphone/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Jul 2021 07:09:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>iphone Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/tag/iphone/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>iPhone X iOS 11 Mobile App Development</title>
+		<link>/blog/iphone-x-ios-11-mobile-app-development/</link>
+					<comments>/blog/iphone-x-ios-11-mobile-app-development/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2017 17:08:25 +0000</pubDate>
+				<category><![CDATA[Mobile Application]]></category>
+		<category><![CDATA[ios 11]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[iphone x]]></category>
+		<category><![CDATA[Mobile App]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/?p=1975</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/blog/iphone-x-ios-11-mobile-app-development/">iPhone X iOS 11 Mobile App Development</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>iOS 11 Mobile App Development</h2>
+<p>Here we go with most awaited iPhone X and iOS 11 updates which were officially launched on September 13th 2K17. And we are excited to know about new products from apple and new iPhone X with iOS 11. The pre order of iPhone X starts from Sep 15th. So what&#8217;s next now? Apple has done with their part now it&#8217;s our turn to develop applications for iPhone X and iOS 11. Before going to iPhone X iOS 11 Mobile App Development, Let&#8217;s check about what&#8217;s new in iOS 11.</p>
+<h2>What&#8217;s new in iOS 11 Mobile App Development</h2>
+<p>Apple always makes a revolution on each update. For iOS 11 Mobile App Development, they have made a very optimistic update using the power of Machine learning. The next future of Mobile App Development is Augmented Reality which they have integrated with this update. Now we can build Super cool iOS 11 Mobile App in Augmented Reality with ARKit.</p>
+<p>Other than Machine Learning and Augmented Reality,  The new Camera APIs, Sirikit, Music integration and much more with iOS 11 Mobile App development. iOS 11 can able to perform multithreading more effectively than other iOS versions which really going to make this update more optimistic. Let&#8217;s check on what we can do with Machine Learning in iOS 11 Mobile app development.</p>
+<h2>Machine Learning &#8211; iOS 11 Mobile App Development</h2>
+<p>Instead of just making iOS 11 Mobile applications now we can say like building iOS 11. Apple uses Core ML which is used by its products like Siri, camera, quick type. Now Core ML integration has been made easy with iOS 11 Mobile App development. We can build fast performance Intelligent iOS 11 Mobile apps.</p>
+<p>Core ML provides support on Deep learning which built on low-level technologies. Hence the CPU and GPU usage will be highly optimized. With Core ML we can make</p>
+<ul>
+<li>Face Detection</li>
+<li>Text Detection</li>
+<li>Barcode Detection</li>
+<li>landmarks</li>
+<li>image Registration</li>
+<li>Object Tracking</li>
+<li>Face Tracking</li>
+</ul>
+<p>And with its Natural Language processing APIs, We can make language detection, text recognition and build very high level iOS 11 Mobile Applications.</p>
+<h3 class="h2"><a href="https://www.hasotech.com/whats-crazy-mobile-app-development/">What’s crazy on Mobile App Development</a></h3>
+<h2>Augmented Reality &#8211; iOS 11 Mobile App Development</h2>
+<p>Very new thing with iOS 11 is Augmented Reality Kit (ARKit) new framework. We all have would played pokemon go game at least once. Now we can make similar applications in iOS 11 Mobile App Development. Lets start making real world interaction application with iOS 11 ARKit.</p>
+<p>With iPhone X camera which is a true depth camera which defines position, expression, topology all as it is. This will helps to make a 3 D character with ARKit. With the position and Camera sensors, The core motion data generated which actually feeds input to ARKit to develop Augmented Reality Applications.</p>
+<p>The sensors used in iPhone X which really helps to make more realistic applications. Apple has provided the magic kit to us and now its our turn to make the magic happens. Lets get our hand dirty for making iOS 11 Mobile App Development.</p>
+<p>If you are looking to make <a href="https://www.hasotech.com/hybrid-mobile-application-development/">Hybrid Mobile app</a> for iPhone X, It&#8217;s not good time to go with since the changes made in size and screen cuts. Hybrid Mobile Application frameworks like Ionic Framework need to make updates for those. If you have solution or better idea on those, Share your thoughts over comments.</p>
+<p><strong><a href="https://www.hasotech.com/contact-us/">Get your  Application developed with us</a></strong></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/blog/iphone-x-ios-11-mobile-app-development/">iPhone X iOS 11 Mobile App Development</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/iphone-x-ios-11-mobile-app-development/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 17:00:20 by W3 Total Cache
+-->

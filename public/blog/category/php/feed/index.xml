@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PHP Archives - Hasotech</title>
+	<atom:link href="/blog/category/php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/category/php/</link>
+	<description></description>
+	<lastBuildDate>Wed, 25 Aug 2021 08:29:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>PHP Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/category/php/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tips To Become A Successful PHP Developer</title>
+		<link>/blog/tips-to-become-a-successful-php-developer/</link>
+					<comments>/blog/tips-to-become-a-successful-php-developer/#respond</comments>
+		
+		<dc:creator><![CDATA[Dhivyameena]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 08:29:21 +0000</pubDate>
+				<category><![CDATA[Mobile Application]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Web Application]]></category>
+		<category><![CDATA[PHP tools]]></category>
+		<category><![CDATA[programming language]]></category>
+		<category><![CDATA[Software developer]]></category>
+		<guid isPermaLink="false">https://hasotech.com/?p=6405</guid>
+
+					<description><![CDATA[<p>Right present PHP is perhaps the most used language for web development. This is the language used on major sites and in some of the world&#8217;s largest open sources, such as WordPress and Drupal, at least 20 million domain names utilize this. Due to PHP&#8217;s enormous popularity, web developers can hardly have a working grasp [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/tips-to-become-a-successful-php-developer/">Tips To Become A Successful PHP Developer</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Right present PHP is perhaps the most used language for web development. This is the language used on major sites and in some of the world&#8217;s largest open sources, such as WordPress and Drupal, at least 20 million domain names utilize this.</p>
+
+
+
+<p>Due to PHP&#8217;s enormous popularity, web developers can hardly have a working grasp of this at least. This article is intended for those who have just gone through the early stages of PHP and are ready to sleep and prepare for language study.</p>
+
+
+
+<p>In this article, we will share things with you to get started with the creation of PHP, and we hope you can learn something or two if you only take your initial steps in this great web development language.</p>
+
+
+
+<h2>What is PHP?</h2>
+
+
+
+<p>PHP &#8211; Hypertext Preprocessing is a generic language on the server that may be used for developing dynamic websites and apps. Only the server which hosts the web app and client apps may access the server resources through web browsers have to be installed. The chart below depicts a PHP web application&#8217;s fundamental architecture.</p>
+
+
+
+<p>The text, HTML, CSS, JavaScript, and PHP files may be included in these files. The code will be carried out on the server and the result will be delivered in plain HTML to the browser. The extension of these files is &#8216;.PHP.</p>
+
+
+
+<p class="has-black-color has-text-color" style="font-size:30px"><strong> Why Choose PHP? </strong></p>
+
+
+
+<ul><li>It works on several platforms (Windows, Linux, Unix, Mac OS X, etc.)</li><li>It&#8217;s supporting virtually all today&#8217;s servers (Apache, IIS, etc.)</li><li>It supports a broad spectrum of databases.</li><li>It is free. <a href="http://php.net/">Download it</a> from the official PHP resource: <strong>www.PHP.net</strong></li><li>You can easily learn and run on the server-side efficiently.</li></ul>
+
+
+
+<p>You also profit from using a server-side scripting language, meaning that you just need to install it on a server and client machines that require no PHP resources from the server, simply a web browser might be sufficient.</p>
+
+
+
+<p class="has-black-color has-text-color" style="font-size:28px"><strong>PHP Tools </strong></p>
+
+
+
+<p><strong>PHP Storm</strong></p>
+
+
+
+<p>PHP Storm is a common choice for the development tool, lightweight, highly quick, and smooth. With Zend Framework, Symfony, Yi, Laravel, CakePHP, as well as with major content administration systems (CMS), including Drupal, Magento, and WordPress, this PHP IDE works effectively.</p>
+
+
+
+<p><strong>Zend Studio</strong></p>
+
+
+
+<p>Because of its optimum performance, many web developers use Zend Studio. Zend Studio does not require any more work and time from developers to write and debug code. It debugs its scripts using the integration of X-ray, Xdebug, and Zend Debugger while supporting PHP7.</p>
+
+
+
+<p><strong>Cloud 9</strong></p>
+
+
+
+<p>The open-source IDE Cloud9 offers hundreds of programming languages (PHP, C, C++, JavaScript, Python) in a development environment. Developers may begin writing with pre-configured settings instantly and develop Web apps with capabilities such as browser compatibility testing and living preview.</p>
+
+
+
+<p><strong>Aptana Studio</strong></p>
+
+
+
+<p>Aptana Studio is a development tool for open source applicable for integration into a range of web technologies from the server and customer. Some of these technologies are PHP, Python, CSS3, Ruby on Rails, Ruby, and HTML5. It provides debuggers and the command-line interface to facilitate the development of this program.</p>
+
+
+
+<p><strong>PHP Debug bar</strong></p>
+
+
+
+<p>PHP Debug bar is a debugger that can execute data from a variety of online applications with any project or display. This developer tool comprises two major Debug Bar items, data collectors and the rendering system. A default debug bar has an integrated collector set, pre-configured.</p>
+
+
+
+<h5>Tips To Become A Successful PHP Developer</h5>
+
+
+
+<p><strong>Use a cheat sheet for SQL injection</strong></p>
+
+
+
+<p>This particular advice is only a link to a valuable resource that does not talk about how to use it. It can be beneficial to study many permutations of a single assault, but you have more time to learn how to protect yourself from it.&nbsp;</p>
+
+
+
+<p>A failure to escape output is the underlying cause of SQL injection. More precisely, when the difference is not rigorously preserved between the SQL query language and the data that the SQL query uses.</p>
+
+
+
+<p><strong>Use of core class and functionality</strong></p>
+
+
+
+<p>The functions and classes existing in PHP can be used when the same task is done again. If you have chosen to build additional functionalities, review the instructions before you start.&nbsp;</p>
+
+
+
+<p>The trim () method may be used if a developer wishes to remove white spaces at the beginning and at the conclusion of the string. Instead of constructing an XML parser for RSS feeds you may utilize a PHP XML parser.</p>
+
+
+
+<p><strong>Create one useful file</strong></p>
+
+
+
+<p>Developers may utilize one master file that stores and associates all required settings with these scripts rather than disseminating database connections everywhere.</p>
+
+
+
+<p>This allows modifying only one file when needed, instead of a lot of files. This advice is useful at times when new constants or functions should be utilized in several files.</p>
+
+
+
+<p><strong>PHP Convention</strong></p>
+
+
+
+<p>In the last few years, there are many changes and those who want to be competent developers should search out particular sites for the newest upgrades and technological advancements. The developer would update the events in the PHP world.</p>
+
+
+
+<p><strong>Framework for PHP</strong></p>
+
+
+
+<p>You can learn an upgraded pattern of PHP web development utilizing this framework, which we may not presently utilize. It provides a standard platform for the creation of Web applications. The primary positive aspect of this framework. The symphony, CakePHP, Zend, and Codelgniter are among the popular frames.</p>
+
+
+
+<p><strong>Make use of other developers</strong></p>
+
+
+
+<p>Connecting with other PHP developers is another approach for a developer to learn more. Connecting and participating with this group might be an excellent method of getting to know more about it. This allows you to discover better techniques of PHP coding.</p>
+
+
+
+<p><strong>Models of design</strong></p>
+
+
+
+<p>Design patterns are something that a skilled web developer of PHP should know about. These default design solutions known as design patterns are utilized for solving problems with designs. The initial design patterns are a book through which these developers get a strong understanding of design patterns.</p>
+
+
+
+<p><strong>Micro Frameworks</strong></p>
+
+
+
+<p>Slim and Silex are just some excellent micro frames with good road motors and template systems. Other frameworks that are Zend framework 2 packages, Slim with MongoDB libraries, Eloquent ORM from Laravel may also be used for micro-frameworks. They have a small footprint and they&#8217;re also productive. This is usually utilized for API development.</p>
+
+
+
+<p>All codes should be practiced, and practical knowledge should be made comfortable. The above-mentioned indicators are the greatest and best for a developer.</p>
+
+
+
+<p><em>If you are looking to</em><a href="https://hasotech.com/contact-us/"><em> hire a PHP developer for your application,</em></a><em> you can consult our development experts and understand how we can convert your idea into reality.</em></p>
+<p>The post <a rel="nofollow" href="/blog/tips-to-become-a-successful-php-developer/">Tips To Become A Successful PHP Developer</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/tips-to-become-a-successful-php-developer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why LAMP Stack For Your Web Application?</title>
+		<link>/blog/why-lamp-stack-for-your-web-application/</link>
+					<comments>/blog/why-lamp-stack-for-your-web-application/#respond</comments>
+		
+		<dc:creator><![CDATA[Dhivyameena]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 07:56:16 +0000</pubDate>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[LAMP Stack]]></category>
+		<category><![CDATA[MEAN Stack]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Stack Development]]></category>
+		<category><![CDATA[Web Application]]></category>
+		<category><![CDATA[Apache]]></category>
+		<category><![CDATA[Lamp stack]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[MEAN stack]]></category>
+		<category><![CDATA[Mobile App]]></category>
+		<category><![CDATA[MySql]]></category>
+		<category><![CDATA[web app]]></category>
+		<guid isPermaLink="false">https://hasotech.com/?p=6426</guid>
+
+					<description><![CDATA[<p>Solution Stacks are a mix of computer software and application applications. The aim is to offer the proper foundation for web applications. Multiple developers are technical in developing, maintaining, and managing the different components. However, many developers can execute the whole solution LAMP stack component. It is known as Full-Stack developers. The packs are usually [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/why-lamp-stack-for-your-web-application/">Why LAMP Stack For Your Web Application?</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Solution Stacks are a mix of computer software and application applications. The aim is to offer the proper foundation for web applications. Multiple developers are technical in developing, maintaining, and managing the different components. However, many developers can execute the whole solution LAMP stack component.</p>
+
+
+
+<p>It is known as Full-Stack developers. The packs are usually called according to the components utilized, resulting in an acronym. This method of naming helps you recall the parts utilized and explain the entire stack components. In this article, we’ll discuss “LAMP Stack” You may get knowledge, advantages, and functionality of a LAMP stack.</p>
+
+
+
+<p class="has-black-color has-text-color" style="font-size:35px"><strong>What is LAMP Stack?</strong></p>
+
+
+
+<p>A <strong>LAMP stack </strong>is an open-source bundle of software for websites and Web applications that may be used. LAMP is an abbreviation that usually includes the operating system of <strong>Linux</strong>, <strong>Apache</strong> HTTP Server, <strong>MySQL</strong> relational database management system, and the language of <strong>PHP</strong> programming.</p>
+
+
+
+<p>LAMP comprises four elements named LAMP STACK combined.</p>
+
+
+
+<ul><li>Operating System</li><li>Webserver</li><li>Database&nbsp;</li><li>Scripting&nbsp;</li></ul>
+
+
+
+<p><strong>Operating System</strong></p>
+
+
+
+<p>Our initial piece is the operating system (OS). For the stack model, Linux lays the basis. On this layer, all other layers are running. Linux is the lowest layer and the operating system supplies it.</p>
+
+
+
+<p>Each component is running Linux. However, you do not restrict yourself particularly to Linux; it is easy for you to execute any component on Microsoft Windows and Mac OS X or Unix if necessary.</p>
+
+
+
+<p>The foundation of the stack pattern is set by Linux and is used to host web apps. The operating system is the lowest layer of the stack, with all other layers on top of the layer. Make it the LAMP stack&#8217;s backbone.</p>
+
+
+
+<p><strong>Webserver</strong></p>
+
+
+
+<p>The second part of the stack is the Apache webserver. A web server is server software that satisfies the requirements of customers around the world. The matching client to server is then done through HTTP (HyperText Transfer Protocol).</p>
+
+
+
+<p>This layer is located above the Linux layer. Web servers shall translate their proper webpage from web browsers. Mechanics for a user to access a webpage are provided by Apache.</p>
+
+
+
+<p>It operates more than 65 percent of all internet-based sites and is a reliable, mission-critical, and competent server. PHP is within Apache and you construct your dynamic pages together by using Apache and PHP.</p>
+
+
+
+<p><strong>Database&nbsp;</strong></p>
+
+
+
+<p>Databases dwell in the 3rd element. Details that may be requested to build a website using MySQL are saved. MySQL normally resides next to the Apache/layer on top of the Linux layer. MySQL can be downloaded to a second host server in high-end setups. MySQL supplies the LAMP system&#8217;s data storage side.</p>
+
+
+
+<p>You have access to a very competent database for big and complicated locations using MySQL. In the format, you can simply query with the SQL language all your information, products, accounts, and other information kinds will be available in this database within your Web application.</p>
+
+
+
+<p>Collectively, this layer may comprise user accounts, user information, descriptive product names, or even website analytics. Web managers may have to edit their website material frequently and users may need to change its content. Inclusion of the database layer may do so.</p>
+
+
+
+<p><strong>Scripting</strong></p>
+
+
+
+<p>PHP is the original stack&#8217;s fourth piece since it interacts extremely well with MySQL. It is often used for web development since it is a language with dynamical characteristics which makes working with it fast and easy.</p>
+
+
+
+<p>If you are a newbie, this feature is very attractive. PHP is so useful because it can be integrated with HTML so that you may jump in and out as you desire.</p>
+
+
+
+<p>PHP is a simple, effective language for programming, which sticks the other elements of the LAMP system together. In the MySQL database and some of the functions provided by Linux, you write dynamic contents with PHP to access data.</p>
+
+
+
+<p class="has-black-color has-text-color" style="font-size:33px"><strong>LAMP Stack Alternatives</strong></p>
+
+
+
+<p class="has-black-color has-text-color" style="font-size:18px"><strong>Open-source alternatives are:</strong></p>
+
+
+
+<ul><li><strong><a href="https://www.hostnamaste.com/blog/how-to-install-the-lemp-stack/">LEMP</a> </strong>(Linux, NGINX, MySQL/MariaDB, PHP/Perl/Python)</li><li><strong>LAPP </strong>(Linux, Apache, PostgreSQL, PHP)</li><li><strong>LEAP </strong>(Linux, Eucalyptus, AppScale, Python)</li><li><strong>LLMP </strong>(Linux, Lighttpd, MySQL/MariaDB, PHP/Perl/Python)</li></ul>
+
+
+
+<p>While non-open source alternatives include:</p>
+
+
+
+<ul><li><strong>WAMP </strong>(Windows, Apache, MySQL/MariaDB, PHP/Perl/Python)</li><li><strong>WIMP</strong>(Windows, Internet Information Services, MySQL/MariaDB, PHP/Perl/Python)</li><li><strong>MAMP</strong> (Mac OS x, Apache, MySQL/MariaDB, PHP/Perl/Python)</li></ul>
+
+
+
+<p class="has-black-color has-text-color" style="font-size:30px"><strong>Advantages Of LAMP</strong></p>
+
+
+
+<p><strong>Scalability</strong></p>
+
+
+
+<p>Every LAMP stack development program or website you design might expand in size or decrease based on your needs. You hold the secret to making your blog easier to use.</p>
+
+
+
+<p><strong>Highly secure</strong></p>
+
+
+
+<p>We can guarantee that this technology is highly safe thanks to the number of updates, encryptions, security architectures, and much more in Lamp Stack.</p>
+
+
+
+<p><strong>Customization</strong></p>
+
+
+
+<p>The person will be able to personalize the app by the user. Customizing using LAMP will never be a problem. In a few steps, you can accomplish it.</p>
+
+
+
+<p><strong>Independent platform</strong></p>
+
+
+
+<p>You may utilize OS with several platforms, including Windows, Android, iOS, and Linux. You may join and reap maximum benefits from separate platforms.</p>
+
+
+
+<p><strong>Fast development</strong></p>
+
+
+
+<p>Since numerous possible alternatives are accessible, the application may be developed quickly. Developers don&#8217;t have to worry about the time because everything will happen faster.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>You should understand what the LAMP stack is after reading this article. Whether you opt for the original FOSS(free and open-source software) software or the alternative stack, all resources and expertise are available.</p>
+
+
+
+<p><em>If you are looking to</em><a href="https://hasotech.com/contact-us/"><em> hire a LAMP Stack developer</em></a><em>, you can consult our software development experts and understand how we can convert your idea into reality.&nbsp;</em></p>
+<p>The post <a rel="nofollow" href="/blog/why-lamp-stack-for-your-web-application/">Why LAMP Stack For Your Web Application?</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/why-lamp-stack-for-your-web-application/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Easiest way learn about cookies in php</title>
+		<link>/blog/easiest-way-learn-cookies-php/</link>
+					<comments>/blog/easiest-way-learn-cookies-php/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 May 2017 14:32:01 +0000</pubDate>
+				<category><![CDATA[PHP]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=176</guid>
+
+					<description><![CDATA[<p>COOKIES: cookies is a most important concept in web technologies. It is client side process, this is small text files stored on the client side and it can be used for tracking purpose. cookies can only store in strings value. It is also called web cookie, Internet cookie, Browser cookie. HOW TO SET A COOKIES: Cookies [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/easiest-way-learn-cookies-php/">Easiest way learn about cookies in php</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong><em>COOKIES:</em></strong></p>
+<ul>
+<li>cookies is a most important concept in web technologies.</li>
+<li>It is client side process, this is small text files stored on the client side and it can be used for tracking purpose.</li>
+<li>cookies can only store in strings value.</li>
+<li>It is also called <strong>web cookie, Internet cookie, Browser cookie.</strong></li>
+</ul>
+<h6></h6>
+<h4>HOW TO SET A COOKIES:</h4>
+<ul>
+<li>Cookies created with the use of <strong>setcookie( ) function.</strong></li>
+<li>server send a  set of cookies to the browser.</li>
+</ul>
+<h3>syntax</h3>
+<h3>        setcookie (<em>name, value, expire, path, domain, secure, HTTP only</em>);</h3>
+<ul>
+<li> After setting a cookie it can be changed by a user in CREATE, MODIFY  and DELETE.</li>
+</ul>
+<h4></h4>
+<h4><strong><br />
+SAMPLE PROGRAM:</strong></h4>
+<p>&lt;?php</p>
+<p>session_start();</p>
+<p>?&gt;</p>
+<p>&lt;!DOCTYPE html&gt;</p>
+<p>&lt;html&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&lt;?php</p>
+<p>$_session[&#8220;favourite_fruit&#8221;]=&#8221;Mango&#8221;;</p>
+<p>$_session[&#8220;favourite_vegetables&#8221;=&#8221;Tomoto&#8221;;</p>
+<p>echo &#8220;session is successfully set&#8221;;</p>
+<p>?&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p>
+<p><strong>Output</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><em>USES OF COOKIES:</em></strong></p>
+<p><strong>Session management:</strong></p>
+<ol>
+<li> Cookies are widely used to manage user sessions.Cookies are used a lot in web applications to personalize response based on your choice or to keep track of session.session management widely used in the Authentication process.</li>
+<li>Session state is better security and More resource consumption of the server.</li>
+</ol>
+<p>&nbsp;</p>
+<h4> <strong>User identification</strong>:</h4>
+<ul>
+<li>Cookies used on client side validation process.So the user and server are intermediate any third party or hacker entered at a time cookies are data caught and stored. After the stopped the sending process to the user and alerted the security message.</li>
+</ul>
+<p><strong><em>working:</em></strong></p>
+<ul>
+<li>cookies are created by client-side and stored to the server browser side.</li>
+</ul>
+<p><strong>Client side                                           Server side</strong></p>
+<ul>
+<li>widely cookies using in catch the user input data after then authentication by the server side.Server side identifies the user and after successful completion of authentication data are sent to the browser or user.</li>
+</ul>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4></h4>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/blog/easiest-way-learn-cookies-php/">Easiest way learn about cookies in php</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/easiest-way-learn-cookies-php/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Core PHP for Beginners</title>
+		<link>/blog/core-php-beginners/</link>
+					<comments>/blog/core-php-beginners/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2017 11:04:21 +0000</pubDate>
+				<category><![CDATA[PHP]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/blog/?p=113</guid>
+
+					<description><![CDATA[<p> Introduction: PHP is one of the easiest and most comfortable frameworks, which can link with the Mysql database.First of all, we have to study the basic structure, format, functionality of the framework.PHP is only for backend purpose, for the frontend (.i.e.,) UI we use HTML basically.For the better UI, you should learn basic HTML, CSS, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/core-php-beginners/">Core PHP for Beginners</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h3> Introduction:</h3>
+<p>PHP is one of the easiest and most comfortable frameworks, which can link with the Mysql database.First of all, we have to study the basic structure, format, functionality of the framework.PHP is only for backend purpose, for the frontend (.i.e.,) UI we use HTML basically.For the better UI, you should learn basic HTML, CSS, JavaScript.</p>
+<h3>Installing:</h3>
+<p>Install a web server which supports PHP and Mysql.If you want to try it on a local server, then install XAMPP.It acts as a local server.After installing it go to Xampp control panel and then click the start button Apache and Mysql.It enables the local server.</p>
+<p>For coding use any text editor and save the file as .php.</p>
+<h3>Sample Program:</h3>
+<ul>
+<li>Lets just print some static content.</li>
+<li>PHP content should be written inside the php tag &lt;?php  &#8230;&#8230;&#8230;.?&gt;.</li>
+<li>Every line of the php should end with semicolon(;).</li>
+<li>Then save it with the PHP extension.</li>
+<li>PHP is not case sensitive.</li>
+<li>You have to save it in the xampp/htdocs/Myfirst.php to run it using the local server.</li>
+</ul>
+<p style="text-align: left">&lt;!DOCTYPE html&gt;<br />
+&lt;html&gt;<br />
+&lt;body&gt;</p>
+<p>&lt;h1&gt;My first PHP page&lt;/h1&gt;</p>
+<p>&lt;?php<br />
+echo &#8220;Hello World!&#8221;;<br />
+?&gt;</p>
+<p>&lt;/body&gt;<br />
+&lt;/html&gt;</p>
+<h3>Execution:</h3>
+<ul>
+<li>Open the web browser.</li>
+<li>enter the URL as localhost/Myfirst.php.</li>
+<li>The output looks like as shown in the figure.</li>
+</ul>
+<h3>PHP  Variables:</h3>
+<p>PHP variables should be declared using the dollar ($) symbol.It&#8217;s so simple than other programming languages where they should declare it using some int, char etc., based on the type of the data to be stored in that variable.But here there is no such complexity, we can simply declare a variable with a $ symbol at the starting.</p>
+<p>For ex:$i=0;</p>
+<p>The variable $i will hold the value 0.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>That&#8217;s all for today .thank you</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/blog/core-php-beginners/">Core PHP for Beginners</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/core-php-beginners/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 10:40:33 by W3 Total Cache
+-->

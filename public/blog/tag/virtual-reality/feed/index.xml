@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>virtual reality Archives - Hasotech</title>
+	<atom:link href="/blog/tag/virtual-reality/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/tag/virtual-reality/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Jul 2021 07:03:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>virtual reality Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/tag/virtual-reality/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get your Virtual Reality Mobile Application</title>
+		<link>/blog/get-your-virtual-reality-mobile-application/</link>
+					<comments>/blog/get-your-virtual-reality-mobile-application/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2017 04:34:38 +0000</pubDate>
+				<category><![CDATA[Hybrid Mobile Application]]></category>
+		<category><![CDATA[Ionic Framework]]></category>
+		<category><![CDATA[Mobile Application]]></category>
+		<category><![CDATA[Ecommerce]]></category>
+		<category><![CDATA[Hybrid Mobile app]]></category>
+		<category><![CDATA[ionic framework]]></category>
+		<category><![CDATA[Mobile App]]></category>
+		<category><![CDATA[virtual reality]]></category>
+		<guid isPermaLink="false">https://www.hasotech.com/?p=2135</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/blog/get-your-virtual-reality-mobile-application/">Get your Virtual Reality Mobile Application</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h1>Get your Virtual Reality Mobile Application</h1>
+<p><strong>Virtual reality mobile application</strong> has been an emerging technology. Medical, entertainment, gaming, fashion etc., are using Virtual reality technology. Virtual reality uses three-dimensional frames which make a user to feel the objects as real. Just take the users to the virtual world. One of the very best implementations of Virtual reality is E-commerce. If you are in <a href="https://www.hasotech.com/ecommerce-app-development/">E-Commerce business</a> and planning to develop an application. Virtual reality mobile application is the best technology to use. You might be thinking how about a user without virtual reality device. One can use the application in normal mode too.</p>
+<h4 class="stripe_2"><a href="https://www.hasotech.com/never-mess-business-mobile-app-development/">Never Mess With Business Mobile App Development</a></h4>
+<p>Choosing the right tech stack to develop Virtual Reality Mobile Application is difficult one. The tech stack should be easy and beneficiary. Imagin, developing Web, Android and iOS VR application with same tech stack. With just one single code, Deploy on different platforms. Yes, It&#8217;s Hybrid Virtual Reality Mobile Application.</p>
+<h2>Developing Hybrid Virtual Reality Mobile Application</h2>
+<p>When it comes to <a href="https://www.hasotech.com/hybrid-mobile-application-development/">Developing Hybrid Mobile Application</a> we prefer <a href="https://www.web.hasotech.com/ionic-mobile-app-developer/">Ionic Framework</a>. Which is well-going technology for Hybrid. To deploy the application in different platform Ionic framework can be used. With single code get the app on Android and iOS and other mobile platforms. Developing Virtual reality mobile application is not possible with the Ionic framework. One of the best part going with Hybrid is, We can use Web Plugins in Mobile Applications. Similarly to develop virtual reality Mobile Application in Hybrid. We are going to use a Web Framework. <strong>aframe.io </strong>for building Virtual Reality Mobile application as well as Web Application.</p>
+<h2>Get Started with Virtual Reality Mobile Application</h2>
+<p>The installation process for Virtual Reality Mobile Application is very easy. aframe.io is a Javascript framework which obviously supports both on the web and hybrid mobile apps. For developing Virtual Reality Application, Initializing the Javascript file of aframe.io is enough. Check the link for detailed installation steps https://aframe.io/docs/0.7.0/introduction/installation.html</p>
+<h3 class="stripe_2"><a href="https://www.web.hasotech.com/whats-crazy-mobile-app-development/">What’s crazy on Mobile App Development</a></h3>
+<h2>3D Models for Virtual Reality Mobile application</h2>
+<p>3D Frames make best Virtual Reality Application. For a better experience, it must be developed with proper tools. There are many tools available to develop 3D images for Virtual reality.</p>
+<p>Places to find 3D models include:</p>
+<ul>
+<li><a href="https://sketchfab.com/" target="_blank" rel="external noopener">Sketchfab</a></li>
+<li><a href="http://clara.io/" target="_blank" rel="external noopener">Clara.io</a></li>
+<li><a href="http://archive3d.net/" target="_blank" rel="external noopener">Archive3D</a></li>
+<li><a href="https://3dwarehouse.sketchup.com/" target="_blank" rel="external noopener">Sketchup’s 3D Warehouse</a></li>
+<li><a href="http://www.turbosquid.com/Search/3D-Models/free" target="_blank" rel="external noopener">TurboSquid</a></li>
+</ul>
+<p>These tools can be used to generate 3D images for developing Virtual reality mobile application.</p>
+<h3 class="stripe_2"><a href="https://www.hasotech.com/very-easy-to-develop-a-mobile-app/">Very easy to Develop a Mobile App</a></h3>
+<h2>Integrating aframe.io and Ionic Framework</h2>
+<p>To make virtual reality Mobile application, aframe.io should be integrated with Ionic Frameworks. The Ionic framework helps to deploy the application on Android and iOS. To make this happen, Create a new view in Ionic framework application and implement aframe.io application. This would bring the entire Virtual reality mobile application under the Ionic framework.</p>
+<p>Now you are with Hybrid Virtual reality mobile application. Share your experience on virtual reality and developing such applications for your business.</p>
+<h3 class="stripe_2"><a href="https://www.hasotech.com/iphone-x-ios-11-mobile-app-development/">iPhone X iOS 11 Mobile App Development</a></h3>
+
+		</div>
+	</div>
+</div></div></div></div>
+<p>The post <a rel="nofollow" href="/blog/get-your-virtual-reality-mobile-application/">Get your Virtual Reality Mobile Application</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/get-your-virtual-reality-mobile-application/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 16:57:00 by W3 Total Cache
+-->

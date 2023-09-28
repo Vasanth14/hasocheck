@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Biometric Recognization Archives - Hasotech</title>
+	<atom:link href="/blog/tag/biometric-recognization/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hasotech.com/blog/tag/biometric-recognization/</link>
+	<description></description>
+	<lastBuildDate>Wed, 25 Aug 2021 08:30:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-logo-1-rb-32x32.png</url>
+	<title>Biometric Recognization Archives - Hasotech</title>
+	<link>https://hasotech.com/blog/tag/biometric-recognization/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Facial Recognition Mobile App: How To Built It?</title>
+		<link>/blog/facial-recognition-mobile-app-how-to-built-it/</link>
+					<comments>/blog/facial-recognition-mobile-app-how-to-built-it/#respond</comments>
+		
+		<dc:creator><![CDATA[Dhivyameena]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 08:30:47 +0000</pubDate>
+				<category><![CDATA[Cross platform mobile app]]></category>
+		<category><![CDATA[Ecommerce]]></category>
+		<category><![CDATA[Hybrid Mobile Application]]></category>
+		<category><![CDATA[Mobile Application]]></category>
+		<category><![CDATA[Artificial Neural Network]]></category>
+		<category><![CDATA[Biometric Recognization]]></category>
+		<category><![CDATA[Facial Recognization]]></category>
+		<category><![CDATA[Mobile App]]></category>
+		<category><![CDATA[OpenCV Platform]]></category>
+		<guid isPermaLink="false">https://hasotech.com/?p=6381</guid>
+
+					<description><![CDATA[<p>Can an app be unlocked with facial recognition? Yes! The revolutionary technologies that have been created are possible. In current days, facial recognition is becoming increasingly common. Facial identification technology fascinates many companies, but it remains unclear how to use the face release function. This article discusses &#8220;How to Build a Facial Recognition mobile app.&#8221; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/facial-recognition-mobile-app-how-to-built-it/">Facial Recognition Mobile App: How To Built It?</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Can an app be unlocked with facial recognition? Yes! The revolutionary technologies that have been created are possible.</p>
+
+
+
+<p>In current days, facial recognition is becoming increasingly common. Facial identification technology fascinates many companies, but it remains unclear how to use the face release function.</p>
+
+
+
+<p>This article discusses &#8220;How to Build a Facial Recognition mobile app.&#8221; However, it is vital to grasp how and how the technology works by implementing it into your mobile solution.</p>
+
+
+
+<h2>What Is Facial Recognition Technology?</h2>
+
+
+
+<p>Facial recognition is a <a href="https://auth0.com/blog/3-critical-trends-in-biometric-authentication-in-2019/">biometric software</a> function that can identify or check a person uniquely by comparing and analyzing patterns based on the facial features of the individual.</p>
+
+
+
+<p>Face recognition is mostly employed for security, but also in other fields of application, there is rising interest. The technology of face recognition has garnered considerable interest since it has the possibility of being used in a variety of applications.</p>
+
+
+
+<h3>How does It work?</h3>
+
+
+
+<p>Facial detection is the identification procedure for a human face in a scanned picture. Various face recognition techniques exist. The major distinction between all algorithms is that the characteristics are calculated and the data sets comparable with one another.</p>
+
+
+
+<p>The entry is a stream of pictures or videos. The output is the item identifying or verifying the picture or video. Facial identification systems often function as follows. The face recognition process is typically characterized as a procedure in five stages:</p>
+
+
+
+<ul><li>Facial detection and tracking</li><li>Facial alignment</li><li>Feature extraction</li><li>Feature matching</li><li>Facial recognition</li></ul>
+
+
+
+<h3>How To Build Mobile Apps with Facial Recognition?</h3>
+
+
+
+<p>There are many methods to build an app with facial recognition. Here is a list of methods like</p>
+
+
+
+<ul><li>The OpenCV Platform</li><li>Artificial Neural Network</li></ul>
+
+
+
+<p><strong>The OpenCV Platform</strong>&nbsp;</p>
+
+
+
+<p>This is the standard platform for developing facial recognition applications and supports the implementation of computer vision and machine learning for the applications. It is a platform for object detection that uses several algorithms to identify all sorts of things. OpenCV is ideally suited for facial recognition and detection.</p>
+
+
+
+<p>OpenCV is a library comprising more than 2,5 thousand properly modified, contemporary, and traditional algorithms. The emphasis of the study is computer vision and machine learning and may be used to recognize pictures, monitor movements, extract 3D object models, and many more in equal measure. OpenCV is a BSD product licensed that simplifies the programming effort considerably.</p>
+
+
+
+<p>Facial recognition is supported with ready-to-use settings. The program is educated for the process of detection and positive photos are incorporated to assist optimize the images. There are many characteristics, scales, and weights that allow marketers to study the picture to create a variety of training image sets.</p>
+
+
+
+<p>The OpenCV is a great framework for incorporating face recognition in your application. But in real-time applications, it is not suited. The greatest way to work against a fixed image is to use social networks or social media apps. It cannot identify pictures in real-time, taking lighting and other aspects into account.</p>
+
+
+
+<p><strong>Artificial Neural Network</strong></p>
+
+
+
+<p>Neural artificial networks are the most common facial recognition approach. They are used for extracting features and making decisions. A network based on a multi-lag perceptron, which permits the input picture categorization in accordance with the pre-trained network, is one of the most commonly utilized choices.</p>
+
+
+
+<p>A series of learning examples are provided for neural networks. The neural network automatically identifies important functions during training, evaluates their significance, and creates connections between them. The trained neural network is expected to be able to generalize the expertise obtained in the course of the training to unfamiliar pictures.</p>
+
+
+
+<p>However, because the trained neural networks were very time demanding, facial recognition results were fairly good and error rates decreased. The major difficulty is the addition of a new benchmark in the database which needs total network retraining across the database.</p>
+
+
+
+<h4>Benefits Of Facial Recognition In Businesses</h4>
+
+
+
+<p><strong>Pairing</strong></p>
+
+
+
+<p>Dating services use the notion that persons who have similar face characteristics are more attracted to themselves. These dating services provide apps that combine users using facial recognition with possible Romantic partners.</p>
+
+
+
+<p><strong>Financial Transactions</strong></p>
+
+
+
+<p>Over recent years, online shopping has grown very popular. Renowned smartphone producers such as Apple and Google have included software for facial recognition on their phones so that users can quickly conduct financial transactions on the move and without having to remember their most complicated passwords.</p>
+
+
+
+<p><strong>Healthcare</strong></p>
+
+
+
+<p>Medical practitioners can utilize the technology of face recognition to recognize a disease by examining the characteristics of the patient. Doctors may recognize signs such as swelling or inflammation using facial recognition and start prescribing the best path ahead with no human.</p>
+
+
+
+<p><strong>Advertising</strong></p>
+
+
+
+<p>With face recognition technology, advertisers are given an opportunity to communicate their messages more precisely to their targeted target groups. Using this technology, cameras can detect the proper age and gender, enabling marketers to target the right client at the right moment with the right message.</p>
+
+
+
+<p><strong>eCommerce / Retail</strong></p>
+
+
+
+<p>Some of the most disturbing today&#8217;s eCommerce companies use face recognition to give their consumers better experiences.</p>
+
+
+
+<p class="has-black-color has-text-color has-medium-font-size"><strong>Conclusion</strong></p>
+
+
+
+<p>Although face recognition is limited for example, changes in posture, illumination, and image quality, the technology is becoming increasingly popular and is eventually a part of everyday life. Platforms that offer a basic implementation of the technology for face recognition utilize different algorithms and may thus be utilized in diverse applications.</p>
+
+
+
+<p>You now know all you need to create a bespoke facial recognition application. The rest depends on the developers. You must talk to them about your project characteristics, prepare a plan and go to business.</p>
+
+
+
+<p><em>If you are looking to</em><a href="https://hasotech.com/contact-us/"><em> hire a mobile application developer for your application</em></a><em>, you can consult our development experts and understand how we can convert your idea into reality.&nbsp;</em></p>
+<p>The post <a rel="nofollow" href="/blog/facial-recognition-mobile-app-how-to-built-it/">Facial Recognition Mobile App: How To Built It?</a> appeared first on <a rel="nofollow" href="/">Hasotech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/facial-recognition-mobile-app-how-to-built-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: web.hasotech.com @ 2022-10-26 12:10:29 by W3 Total Cache
+-->
